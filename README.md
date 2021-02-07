@@ -17,6 +17,6 @@
 
 ### Hey! Welcome to my profile! How is it going? 
 
-- 🚀 Front end developer
-- 💻 Studying JavaScript {Node.js and react}
-- ✨ Learning is continuous and there will always be a next level
+- 🚀 Front end developer.
+- 💻 Studying JavaScript {Node.js and react}.
+- ✨ Learning is continuous and there will always be a next level.
