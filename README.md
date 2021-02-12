@@ -14,7 +14,7 @@
 </a>
 <br/>
 
-### Hey! Welcome to my profile! How is it going? 
+### Hey! Welcome to my profile! 
 
 - 🚀 Front end developer.
 - 💻 Studying JavaScript {Node.js and react}.
